@@ -1,3 +1,9 @@
+"""
+This is a simple script that reduces redundancy in code
+
+"""
+
+
 def read(name_of_textfile):
     step = ""
     f = open(name_of_textfile, "r")
